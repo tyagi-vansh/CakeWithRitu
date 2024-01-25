@@ -1,0 +1,20 @@
+{
+  "name": "cakewith",
+  "version": "1.0.0",
+  "description": "first firm project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "TheSarthak",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.12"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "locomotive-scroll": "^4.1.4"
+  }
+}
